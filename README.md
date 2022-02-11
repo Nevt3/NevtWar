@@ -1,4 +1,0 @@
-# NevtWar
-
-
-HELLO BANG :) 
